@@ -4,3 +4,11 @@ I completed my intermediate from sindh sukkur board
 Now i am studing in bechlors of computer science in fast university
  Initially i was not very fond of computer science but de to world goes to new adventures like computer studies artificial intelligence 
  so that i chose computer science in fast university 
+*this is a italic text*
+**this is a bold text**
+- karahi
+- biryani
+- pizza
+1. travelling
+2. singing
+3. studing 
